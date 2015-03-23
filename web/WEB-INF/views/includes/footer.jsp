@@ -13,7 +13,7 @@
                 <li class="pull-right"><a href="#top">Back to top</a></li>
                 <li><a href="http://feeds.feedburner.com/bootswatch">RSS</a></li>
                 <li><a href="https://twitter.com/inscriuni">Twitter</a></li>
-                <li><a href="https://github.com/ccvf2s/">GitHub</a></li>
+                <li><a href="https://github.com/ccvf2s/ForumJ2EE">GitHub</a></li>
             </ul>
             <p>Made by <a href="https://www.linkedin.com/profile/view?id=111904743&trk=nav_responsive_tab_profile_pic" rel="nofollow">Dominick Makome</a>.</p>
             <p>Code released under the <a href="#">MIT License</a>.</p>
