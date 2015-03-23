@@ -9,6 +9,7 @@ $ git clone https://github.com/ccvf2s/ForumJ2EE
 
 * Open the application with NetBeans IDE
 * Add jar file for spring security http://mvnrepository.com/artifact/org.springframework.security
+* Create a database named FORUMDB with username and password FORUMDB
 * Execute command which is in the file DATABASE/BD_FORUM_DERBY.sql in Derby
 
 When you will execute this sql, two users will be created:
